@@ -1,6 +1,8 @@
 # FunWithKeywords
 
-** Showcasing the pitfall of Keyword list merging in umbrella apps**
+** Showcasing the pitfall of Keyword list merging in umbrella apps **
+
+This repo was made in little time to assist in a conversation. For the random visitor:
 
 Consider a scenario where you have an umbrella app where multiple applications use the same driver and may want to set certain configuration options. Specifying the options in each app utilising the driver can easily lead to overwriting the option desired by another app.
 
